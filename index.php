@@ -163,54 +163,54 @@ $this->need('header.php');
 					<div class="tab-content startup_tab_content" id="myTabContent">
 						<div class="tab-pane fade active show" id="portal" role="tabpanel" aria-labelledby="market-tab">
 							<div class="startup_tab_img">
-								<img src="https://a-oss.zmki.cn/2020/20200315-8604f2e93c366.png" alt="time时光相册" style="width: 100%;">
+								<img src="<?php $this->options->view1href(); ?>" alt="<?php $this->options->view1(); ?>" style="width: 100%;">
 							</div>
 						</div>
 						<div class="tab-pane fade" id="filter" role="tabpanel" aria-labelledby="app-tab">
 							<div class="startup_tab_img">
-								<img src="https://a-oss.zmki.cn/2020/20200315-64fc7fded8847.png" alt="jike导航" style="width: 100%;">
+								<img src="<?php $this->options->view2href(); ?>" alt="<?php $this->options->view2(); ?>" style="width: 100%;">
 							</div>
 						</div>
 						<div class="tab-pane fade" id="lesson" role="tabpanel" aria-labelledby="hubstaff-tab">
 							<div class="startup_tab_img">
-								<img src="https://a-oss.zmki.cn/2020/20200315-42e2992d08535.png" alt="向日葵全家桶" style="width: 100%;">
+								<img src="<?php $this->options->view3href(); ?>" alt="<?php $this->options->view3(); ?>" style="width: 100%;">
 							</div>
 						</div>
 						<div class="tab-pane fade" id="admin" role="tabpanel" aria-labelledby="engine-tab">
 							<div class="startup_tab_img">
-								<img src="https://a-oss.zmki.cn/2020/20200315-770fc3944b1be.png" alt="区块教学网" style="width: 100%;">
+								<img src="<?php $this->options->view4href(); ?>" alt="<?php $this->options->view4(); ?>" style="width: 100%;">
 							</div>
 						</div>
 						<div class="tab-pane fade" id="report" role="tabpanel" aria-labelledby="business-tab">
 							<div class="startup_tab_img">
-								<img src="https://a-oss.zmki.cn/2020/20200315-64688fe09cf0d.png" alt="二开汉化模板" style="width: 100%;">
+								<img src="<?php $this->options->view5href(); ?>" alt="<?php $this->options->view5(); ?>" style="width: 100%;">
 							</div>
 						</div>
 					</div>
 					<ul class="nav nav-tabs startup_tab" id="myTab" role="tablist">
 						<li class="nav-item">
 							<a class="nav-link active show" id="market-tab" data-toggle="tab" href="#portal" role="tab" aria-controls="market" aria-selected="true">
-								<h3>Time时光相册</h3>
+								<h3><?php $this->options->view1(); ?></h3>
 							</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" id="app-tab" data-toggle="tab" href="#filter" role="tab" aria-controls="app" aria-selected="false">
-								<h3>JIKE导航</h3>
+								<h3><?php $this->options->view2(); ?></h3>
 							</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" id="hubstaff-tab" data-toggle="tab" href="#lesson" role="tab" aria-controls="hubstaff" aria-selected="false">
-								<h3>向日葵全家桶</h3>
+								<h3><?php $this->options->view3(); ?></h3>
 							</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" id="engine-tab" data-toggle="tab" href="#admin" role="tab" aria-controls="engine" aria-selected="false">
-								<h3>区块教学网</h3>
+								<h3><?php $this->options->view4(); ?></h3>
 							</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" id="business-tab" data-toggle="tab" href="#report" role="tab" aria-controls="business" aria-selected="false">
-								<h3>Contentberg汉&amp;优/化</h3>
+								<h3><?php $this->options->view5(); ?></h3>
 							</a>
 						</li>
 					</ul>
@@ -232,7 +232,7 @@ $this->need('header.php');
 									更多作品:
 								</h2>
 								<p class="f_400 f_p mb_40 wow fadeInLeft" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
-									新美誉希望能够制作出更多有价值内容，携手所有有志之士前进受益。
+								<?php $this->options->title() ?>希望能够制作出更多有价值内容，携手所有有志之士前进受益。
 								</p>
 								<!-- <a href="#" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                                 <i class="fa fa-graduation-cap"></i> Course website</a>
@@ -246,20 +246,20 @@ $this->need('header.php');
 								<div class="row">
 									<div class="col-md-6 col-sm-12 col-xs-12">
 
-										<a href="javascript:;" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
-											<i class="fa fa-pen-fancy"></i> WP美化</a>
+										<a href="<?php $this->options->more1href(); ?>" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
+											<i class="fa fa-pen-fancy"></i> <?php $this->options->more1(); ?></a>
 
-										<a href="javascript:;" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
-											<i class="fa fa-user-graduate"></i> WP优化</a>
+										<a href="<?php $this->options->more2href(); ?>" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
+											<i class="fa fa-user-graduate"></i> <?php $this->options->more1(); ?></a>
 
 									</div>
 									<div class="col-md-6 col-sm-12 col-xs-12">
 
-										<a href="javascript:;" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
-											<i class="fa fa-user-shield"></i> 很美味 |在建</a>
+										<a href="<?php $this->options->more3href(); ?>" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
+											<i class="fa fa-user-shield"></i><?php $this->options->more1(); ?></a>
 
-										<a href="javascript:;" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
-											<i class="fa fa-globe"></i>钻芒博客</a> 
+										<a href="<?php $this->options->more4href(); ?>" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
+											<i class="fa fa-globe"></i><?php $this->options->more1(); ?></a> 
 									</div>
 								</div>
 

@@ -37,6 +37,51 @@ function themeConfig($form) {
     $headbottonhref = new Typecho_Widget_Helper_Form_Element_Text('headbottonhref' ,NULL, NULL, _t('顶部右边按钮跳转地址'), _t(''));
     $form->addInput($headbottonhref);
 
+    $view1 = new Typecho_Widget_Helper_Form_Element_Text('view1' ,NULL, NULL, _t('作品1名字'), _t(' '));
+    $form->addInput($view1);
+    $view2 = new Typecho_Widget_Helper_Form_Element_Text('view2' ,NULL, NULL, _t('作品2名字'), _t(' '));
+    $form->addInput($view2);
+    $view3 = new Typecho_Widget_Helper_Form_Element_Text('view3' ,NULL, NULL, _t('作品3名字'), _t(' '));
+    $form->addInput($view3);
+    $view4 = new Typecho_Widget_Helper_Form_Element_Text('view4' ,NULL, NULL, _t('作品4名字'), _t(' '));
+    $form->addInput($view4);
+    $view5 = new Typecho_Widget_Helper_Form_Element_Text('view5' ,NULL, NULL, _t('作品5名字'), _t(' '));
+    $form->addInput($view5);
+
+    $view1href = new Typecho_Widget_Helper_Form_Element_Text('view1href' ,NULL, NULL, _t('作品1图片'), _t(' 填入图片链接，建议使用https协议'));
+    $form->addInput($view1href);
+    $view2href = new Typecho_Widget_Helper_Form_Element_Text('view2href' ,NULL, NULL, _t('作品2图片'), _t(' 填入图片链接，建议使用https协议'));
+    $form->addInput($view2href);
+    $view3href = new Typecho_Widget_Helper_Form_Element_Text('view3href' ,NULL, NULL, _t('作品3图片'), _t(' 填入图片链接，建议使用https协议'));
+    $form->addInput($view3href);
+    $view4href = new Typecho_Widget_Helper_Form_Element_Text('view4href' ,NULL, NULL, _t('作品4图片'), _t(' 填入图片链接，建议使用https协议'));
+    $form->addInput($view4href);
+    $view5href = new Typecho_Widget_Helper_Form_Element_Text('view5href' ,NULL, NULL, _t('作品5图片'), _t(' 填入图片链接，建议使用https协议'));
+    $form->addInput($view5href);
+
+    $more1 = new Typecho_Widget_Helper_Form_Element_Text('more1' ,NULL, NULL, _t('作品1名字'), _t(' '));
+    $form->addInput($more1);
+    $more2 = new Typecho_Widget_Helper_Form_Element_Text('more2' ,NULL, NULL, _t('作品2名字'), _t(' '));
+    $form->addInput($more2);
+    $more3 = new Typecho_Widget_Helper_Form_Element_Text('more3' ,NULL, NULL, _t('作品3名字'), _t(' '));
+    $form->addInput($more3);
+    $more4 = new Typecho_Widget_Helper_Form_Element_Text('more4' ,NULL, NULL, _t('作品4名字'), _t(' '));
+    $form->addInput($more4);
+
+
+    $more1href = new Typecho_Widget_Helper_Form_Element_Text('more1href' ,NULL, NULL, _t('作品1链接'), _t(' 填入链接，建议使用https协议'));
+    $form->addInput($more1href);
+    $more2href = new Typecho_Widget_Helper_Form_Element_Text('more2href' ,NULL, NULL, _t('作品2链接'), _t(' 填入链接，建议使用https协议'));
+    $form->addInput($more2href);
+    $more3href = new Typecho_Widget_Helper_Form_Element_Text('more3href' ,NULL, NULL, _t('作品3链接'), _t(' 填入链接，建议使用https协议'));
+    $form->addInput($more3href);
+    $more4href = new Typecho_Widget_Helper_Form_Element_Text('more4href' ,NULL, NULL, _t('作品4链接'), _t(' 填入链接，建议使用https协议'));
+    $form->addInput($more4href);
+
+
+
+
+
     $github = new Typecho_Widget_Helper_Form_Element_Text('github' ,NULL, NULL, _t('GitHub地址'), _t('填写你的GitHub地址（或者你喜欢就好）'));
     $form->addInput($github);
     $heart = new Typecho_Widget_Helper_Form_Element_Text('heart' ,NULL, NULL, _t('底部第二个图标心的地址'), _t('填写你喜欢就好的地址'));
