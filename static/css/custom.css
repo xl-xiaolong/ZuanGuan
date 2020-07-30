@@ -1,0 +1,215 @@
+.rEsl9f {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    font-size: 13px;
+    margin-top: 50px;
+}
+
+.s-dsoj {
+	display: flex;
+	color: #677294;
+}
+
+.s-dsoj>:not(:last-child) {
+	margin-right: 3px;
+	font-weight: 600;
+}
+
+._1NDgW7 {
+	color: #969696;
+	flex-shrink: 0
+}
+
+._3tCVn5 {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	color: #ec7259
+}
+
+._3tCVn5 i {
+	margin-right: .5em
+}
+
+._2mYfmT {
+	display: flex;
+	align-items: center
+}
+._2mYfmT a {
+    color:#000;
+}
+._2mYfmT a {
+    color:#000;
+}
+._2mYfmT a:hover {
+    color: #5e2ced;
+}
+._13D2Eh {
+	display: block;
+	border-radius: 50%;
+	border: 1px solid #eee;
+	min-width: 48px;
+	min-height: 48px;
+	width: 48px;
+	height: 48px
+}
+._3kba3h {
+	padding: 2px 9px
+}
+._3Mi9q9, ._3Mi9q9[disabled]:hover {
+    color: #ec7259;
+    background-color: #fff;
+    border-color: #ec7259;
+}
+._1OyPqC {
+    position: relative;
+    flex-shrink: 0;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: all .2s cubic-bezier(.645,.045,.355,1);
+    font-size: 14px;
+    padding: 4px 12px;
+    color: #969696;
+    background-color: #fff;
+    border: 1px solid #999;
+}
+._3kba3h {
+    padding: 2px 9px;
+}
+
+._34692- {
+    font-size: 12px;
+    padding: 0 5px;
+}
+._34692- span { 
+    height: 16px;
+    line-height: 16px;
+} 
+._3Mi9q9, ._3Mi9q9[disabled]:hover {
+    color: #ec7259;
+    background-color: #fff;
+    border-color: #ec7259;
+} 
+[type=reset], [type=submit], button, html [type=button] {
+-webkit-appearance: button;
+    float: right;
+    
+
+}
+.zmki_blog_button{
+    margin-top: 55px;
+    position: absolute;
+    margin-left: 180px; 
+}
+
+
+.breadcrumb_area {
+	background-image: -webkit-linear-gradient(180deg, #fff 0%, #fff 100%) !important;
+	padding: 150px 0px 100px !important;
+}
+
+.blog_grid_item {
+    cursor: default;
+}
+
+.app_feature_info {
+	margin-top: 130px !important;
+}
+
+.new_startup_banner_area {
+	background: #fff;
+}
+.hosting_service_item{
+	box-shadow: 0px 50px 100px 0px rgba(5, 1, 64, 0.1), 0px -5px 0px 0px rgba(95, 84, 253, 0.004);
+	margin-bottom: 30px;
+}
+.hosting_service_item img{
+	height: 60px;
+}
+.software_service_item p span {
+	padding: 0 0;
+}
+
+.article-votes {
+    border-top: 1px solid #ddd;
+    
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 100px;
+}
+.community-box-margin {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.section h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.align-center {
+    text-align: center;
+}
+
+@media (min-width: 768px)
+.article [role="button"] {
+    width: auto;
+}
+
+.article [role="button"] {
+    flex-shrink: 0;
+    width: 100%;
+}
+.submit-request-button {
+    min-height: 35px;
+    padding: 11px 30px;
+    font-weight: inherit;
+    font-style: inherit;
+    letter-spacing: 0;
+    font-family: Montserrat,sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 600;
+    letter-spacing: .075em;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    white-space: nowrap;
+    outline: 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    line-height: 1em;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    position: relative;
+    background-color: #0072ef;
+    color: #fff;
+    text-align: center;
+    max-width: 190px;
+}
+.recent-activity-header{
+    font-size: 28px;
+    letter-spacing: 0;
+    font-family: Open Sans,sans-serif;
+    line-height: 62px;
+    font-weight: 400;
+    !important: ;
+}
+.recent-activity p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
