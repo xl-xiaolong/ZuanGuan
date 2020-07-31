@@ -92,49 +92,49 @@ $this->need('header.php');
 				<div class="container">
 					<div class="seo_sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
 						<h2>核心领域</h2>
-						<p>围绕核心领域拓展我们的圈内足迹，并使开拓完善新的互联网生态，它属于我们，但受益于每个人</p>
+						<p><?php $this->options->domain; ?></p>
 					</div>
 					<div class="row p_service_info">
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pr_70">
 								<div class="icon icon_one"><i class="ti-wand"></i></div>
-								<h5 class="f_600 f_p t_color3">前端美化</h5>
-								<p class="f_400">我们是一群年轻的群体，在时刻渴望学习新的内容，并学以致用</p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain1; ?></h5>
+								<p class="f_400"><?php $this->options->domain1about; ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_50 pr_20">
 								<div class="icon icon_two"><i class="ti-help-alt"></i></div>
-								<h5 class="f_600 f_p t_color3">内容建设</h5>
-								<p class="f_400">近2年来我们撰写了非常广泛且高质量的原创内容。累计帮助互联网10W+新手答疑</p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain2; ?></h5>
+								<p class="f_400"><?php $this->options->domain2about; ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_70">
 								<div class="icon icon_three"><i class="ti-infinite"></i></div>
-								<h5 class="f_600 f_p t_color3">生态拓展</h5>
-								<p class="f_400">我们涉足于等多个知名CMS系统，并同步开启生态建设</p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain3; ?></h5>
+								<p class="f_400"><?php $this->options->domain3about; ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pr_70">
 								<div class="icon icon_four"><i class="ti-user"></i></div>
-								<h5 class="f_600 f_p t_color3">用户足迹</h5>
-								<p class="f_400">2019年我们服务客户数量达1000+ 新美誉注重用户体验，同时不断完善售后策略</p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain4; ?></h5>
+								<p class="f_400"><?php $this->options->domain4about; ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_50 pr_20">
 								<div class="icon icon_five"><i class="ti-email"></i></div>
-								<h5 class="f_600 f_p t_color3">互动交流</h5>
-								<p class="f_400">我们始终认为创新绝不是闭门造车，在去年我们与互联网用户对话交流1000余次</p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain5; ?></h5>
+								<p class="f_400"><?php $this->options->domain5about; ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_70">
 								<div class="icon icon_six"><i class="ti-stats-up"></i></div>
-								<h5 class="f_600 f_p t_color3">不断成长</h5>
-								<p class="f_400">过去一年我们注重体验细节与客户维护，并坚持拓展挖掘目标领域内容</p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain6; ?></h5>
+								<p class="f_400"><?php $this->options->domain6about; ?></p>
 							</div>
 						</div>
 					</div>
@@ -142,7 +142,7 @@ $this->need('header.php');
 			</section>
 
 			<!-- LINK TO DETAILS -->
-			<section class="seo_service_area sec_pad">
+			<!--<section class="seo_service_area sec_pad">
 				<div class="container">
 					<div class="row seo_service_info">
 						<div class="col-lg-12 text-center mt_40">
@@ -152,7 +152,7 @@ $this->need('header.php');
 													</div>
 					</div>
 				</div>
-			</section>
+			</section>-->
 
 			<!-- PREVIEW SCREENS -->
 			<section class="startup_fuatures_area">
@@ -227,7 +227,7 @@ $this->need('header.php');
 					<div class="row">
 						<div class="col-lg-6 d-flex align-items-center">
 							<div class="get_content">
-								<h3 class="f_400 f_p wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">zmki</h3>
+								<h3 class="f_400 f_p wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;"><?php $this->options->title() ?></h3>
 								<h2 class="f_700 f_p f_size_40 l_height50 mb_20 wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
 									更多作品:
 								</h2>

@@ -21,7 +21,7 @@
                                     <?php endif; ?>
 								</div>
 							</div>
-							<div class="col-lg-3 col-sm-6">
+						<!--	<div class="col-lg-3 col-sm-6">
 								<div class="f_widget about-widget">
 									<h3 class="f-title f_600 w_color f_size_18 mb_40">关于<?php $this->options->title() ?></h3>
 									<ul class="list-unstyled f_list">
@@ -40,7 +40,8 @@
 																				<?php $this->options->footersites();?>
 																			</ul>
 								</div>
-							</div>
+							</div> -->
+
 							<div class="col-lg-2 col-sm-6">
 								<div class="f_widget social-widget">
 									<h3 class="f-title f_600 w_color f_size_18 mb_40">社交账户</h3>
@@ -53,7 +54,7 @@
 								</div>
 							</div>
 						</div>	
-						<div class="zmki_links">
+						<!-- <div class="zmki_links">
 							友情链接:
 																			<a href='javascript:;' target="_blank">钻芒博客</a>
 																			<a href='javascript:;' target="_blank">极客导航</a>
@@ -64,7 +65,8 @@
 																			<a href='javascript:;' target="_blank">园林设计公司</a>
 																			<a href='javascript:;' target="_blank">台湾旅游</a>
 															</div>
-					</div>
+					</div> -->
+			
 				</div>
 			</footer>
 		<!-- Optional JavaScript -->
@@ -89,19 +91,3 @@
 		<script src="/usr/themes/ZuanGuan/static/js/multiscroll.responsiveExpand.lim.js"></script>
 		<script src="/usr/themes/ZuanGuan/static/js/jquery.multiscroll.extensions.mi.js"></script>
 		<script src="/usr/themes/ZuanGuan/static/js/main.js"></script>
-		<!-- Google analytics -->
-		<!--=============== ZENDESK WIDGET ================--> 
-		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-61394417-1']);
-			_gaq.push(['_trackPageview']);
-
-			(function() {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript';
-				ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(ga, s);
-			})();
-		</script> 
