@@ -4,7 +4,7 @@
  * 
  * @package ZuanGuan
  * @author Wibus
- * @version 1.1.0
+ * @version 1.0.9.5
  * @link https://blog.iucky.cn
  */
 
