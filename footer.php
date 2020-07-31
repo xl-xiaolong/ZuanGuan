@@ -32,7 +32,8 @@
 																				<li><a href="index9.html">评论</a></li>
 																			</ul>
 								</div>
-							</div>
+							</div>-->
+							
 							<div class="col-lg-3 col-sm-6">
 								<div class="f_widget about-widget">
 									<h3 class="f-title f_600 w_color f_size_18 mb_40">旗下网站</h3>
@@ -40,7 +41,7 @@
 																				<?php $this->options->footersites();?>
 																			</ul>
 								</div>
-							</div> -->
+							</div> 
 
 							<div class="col-lg-2 col-sm-6">
 								<div class="f_widget social-widget">
