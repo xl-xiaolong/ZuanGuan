@@ -1,0 +1,1432 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Page not found</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="http://academy-lms.com/assets/img/favicon.png" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="http://academy-lms.com/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/bootstrap-selector/css/bootstrap-select.min.css">
+    <!--icon font css-->
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/themify-icon/themify-icons.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/font-awesome/css/all.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/elagent/style.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/flaticon/flaticon.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/animation/animate.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/owl-carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/nice-select/nice-select.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/magnify-pop/magnific-popup.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/vendors/scroll/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/css/style.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/css/responsive.css">
+    <link rel="stylesheet" href="http://academy-lms.com/assets/css/custom.css">
+    <script src="http://academy-lms.com/assets/js/jquery-3.2.1.min.js"></script>
+    <!-- Google analytics -->
+    <!--=============== ZENDESK WIDGET ================-->
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-61394417-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
+  	<!--=============== ZENDESK WIDGET ================--></head>
+
+<body>
+
+    <!-- PRELOADER 
+    <div id="preloader">
+        <div id="ctn-preloader" class="ctn-preloader">
+            <div class="animation-preloader">
+                <div class="spinner"></div>
+                <div class="txt-loading">
+                    <span data-text-preloader="A" class="letters-loading">
+                        A
+                    </span>
+                    <span data-text-preloader="C" class="letters-loading">
+                        C
+                    </span>
+                    <span data-text-preloader="A" class="letters-loading">
+                        A
+                    </span>
+                    <span data-text-preloader="D" class="letters-loading">
+                        D
+                    </span>
+                    <span data-text-preloader="E" class="letters-loading">
+                        E
+                    </span>
+                    <span data-text-preloader="M" class="letters-loading">
+                        M
+                    </span>
+                    <span data-text-preloader="Y" class="letters-loading">
+                        Y
+                    </span>
+                </div>
+                <p class="text-center">lms</p>
+            </div>
+            <div class="loader">
+                <div class="row">
+                    <div class="col-3 loader-section section-left">
+                        <div class="bg"></div>
+                    </div>
+                    <div class="col-3 loader-section section-left">
+                        <div class="bg"></div>
+                    </div>
+                    <div class="col-3 loader-section section-right">
+                        <div class="bg"></div>
+                    </div>
+                    <div class="col-3 loader-section section-right">
+                        <div class="bg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>-->
+
+    <div class="body_wrapper">
+<!-- MENU -->
+        <header class="header_area">
+            <nav class="navbar navbar-expand-lg menu_one">
+                <div class="container custom_container p0">
+                    <a class="navbar-brand" href="http://academy-lms.com/">
+                      <img src="http://academy-lms.com/assets/images/logo.png"
+                        srcset="http://academy-lms.com/assets/images/logo.png 2x" alt="logo"></a>
+                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="menu_toggle">
+                            <span class="hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </span>
+                            <span class="hamburger-cross">
+                                <span></span>
+                                <span></span>
+                            </span>
+                        </span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto menu pr_20">
+                            <li class="nav-item
+                                                            ">
+                                <a class="nav-link" href="http://academy-lms.com/" role="button" aria-haspopup="true" aria-expanded="false">
+                                    Home
+                                </a>
+                            </li>
+                            <li class="dropdown submenu nav-item
+                                                            ">
+                                <a title="Pages" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">About</a>
+                                <ul role="menu" class=" dropdown-menu">
+                                    <li class="nav-item ">
+                                        <a class="nav-link" href="http://academy-lms.com/how-it-works">
+                                            How it works
+                                        </a>
+                                    </li>
+                                    <li class="nav-item ">
+                                        <a class="nav-link" href="#">
+                                            All features
+                                        </a>
+                                    </li>
+                                    <li class="nav-item ">
+                                        <a class="nav-link" href="http://academy-lms.com/themes">
+                                            Themes
+                                        </a>
+                                    </li>
+                                    <li class="nav-item ">
+                                        <a class="nav-link" href="http://academy-lms.com/mobile-apps">
+                                            Mobile apps
+                                        </a>
+                                    </li>
+                                    <li class="nav-item ">
+                                        <a class="nav-link" href="http://academy-lms.com/pricing">
+                                            Pricing
+                                        </a>
+                                    </li>
+                                    <li class="nav-item ">
+                                        <a class="nav-link" href="http://academy-lms.com/reviews">
+                                            Reviews
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item ">
+                                <a class="nav-link" href="http://academy-lms.com/docs" role="button" aria-haspopup="true">
+                                    Docs
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="http://support.creativeitem.com" target="_blank" role="button" aria-haspopup="true">
+                                    Support
+                                </a>
+                            </li>
+
+                        </ul>
+                        <a class="app_btn btn_hover" href="https://1.envato.market/jGqOZ" target="_blank">
+                            <!-- <img src="images/envato-mini.png" style="height: 15px;" /> -->
+                        Buy academy - $55</a>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+
+
+
+<section class="error_two_area">
+    <div class="container flex">
+        <div class="error_content_two text-center">
+            <img src="http://academy-lms.com/assets/img/new/error.png" alt="">
+            <h2>Error! page not found.</h2>
+            <p>Sorry for the inconvenience. Please go to our home page and learn more about academy. </p>
+            <a href="http://academy-lms.com/" class="about_btn btn_hover">Back to Home Page <i class="arrow_right"></i></a>
+        </div>
+    </div>
+</section>
+<!-- FOOTER SECTION -->
+        <footer class="footer_area_six sec_pad">
+            <div class="footer_top_six">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="f_widget company_widget">
+                                <a href="index.html" class="f-logo"><img src="http://academy-lms.com/assets/img/logo3.png" srcset="http://academy-lms.com/assets/img/logo-3-2x.png 2x" alt="logo" style="height: 30px;"></a>
+                                <p class="mt_40">Copyright © 2019, <br>made by
+                                    <a href="http://creativeitem.com" target="_blank">Creativeitem</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="f_widget about-widget">
+                                <h3 class="f-title f_600 w_color f_size_18 mb_40">About</h3>
+                                <ul class="list-unstyled f_list">
+                                    <li><a href="#">Features</a></li>
+                                    <li><a href="http://academy-lms.com/themes">Themes</a></li>
+                                    <li><a href="http://academy-lms.com/mobile-apps">Mobile app</a></li>
+                                    <li><a href="http://academy-lms.com/reviews">Reviews</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="f_widget about-widget">
+                                <h3 class="f-title f_600 w_color f_size_18 mb_40">Help</h3>
+                                <ul class="list-unstyled f_list">
+                                    <li><a href="http://academy-lms.com/how-it-works">How it works</a></li>
+                                    <li><a href="http://academy-lms.com/pricing">Pricing</a></li>
+                                    <li><a href="http://academy-lms.com/terms_and_conditions">Term & conditions</a></li>
+                                    <li><a href="http://support.creativeitem.com/" target="_blank">Submit ticket</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-sm-6">
+                            <div class="f_widget social-widget">
+                                <h3 class="f-title f_600 w_color f_size_18 mb_40">Follow Us</h3>
+                                <div class="f_social_icon">
+                                    <a href="https://www.facebook.com/CreativeitemApps/" target="_blank"
+                                        class="ti-facebook"></a>
+                                    <a href="https://www.instagram.com/creativeitem.developers/" target="_blank"
+                                        class="ti-instagram"></a>
+                                    <a href="https://www.youtube.com/channel/UCY2eDAOrgMmH0Jbt4QEQIFA" target="_blank"
+                                        class="ti-youtube"></a>
+                                    <a href="https://www.linkedin.com/company/creativeitem/" target="_blank"
+                                        class="ti-linkedin"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="http://academy-lms.com/assets/js/propper.js"></script>
+    <script src="http://academy-lms.com/assets/js/bootstrap.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/bootstrap-selector/js/bootstrap-select.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/wow/wow.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/sckroller/jquery.parallax-scroll.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/nice-select/jquery.nice-select.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/isotope/isotope-min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/magnify-pop/jquery.magnific-popup.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/circle-progress/circle-progress.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/counterup/jquery.counterup.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/counterup/jquery.waypoints.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/counterup/appear.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="http://academy-lms.com/assets/js/plugins.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/multiscroll/jquery.easings.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/multiscroll/multiscroll.responsiveExpand.limited.min.js"></script>
+    <script src="http://academy-lms.com/assets/vendors/multiscroll/jquery.multiscroll.extensions.min.js"></script>
+    <script src="http://academy-lms.com/assets/js/main.js"></script>
+</body>
+
+</html>
+<script>
+var start_time = 2000
+var end_time = 8000
+</script>
+
+<style>
+.sales_notification {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  z-index: 10000;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 15px 2px rgba(0,0,0,.15);
+  padding: 5px 10px 0px 10px;
+  border-radius: 10px;
+  display: none;
+}
+</style>
+
+
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_3">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	D.G.Khan, Pakistan			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">8 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_3(){
+			$( "#sales_notification_3" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_3, start_time);
+
+			function hide_sales_3(){
+			$( "#sales_notification_3" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_3, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_5">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Sofia, Bulgaria			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">7 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_5(){
+			$( "#sales_notification_5" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_5, start_time);
+
+			function hide_sales_5(){
+			$( "#sales_notification_5" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_5, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_6">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Jakarta Selatan, Indonesia			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Lms Student Android App 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">2 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_6(){
+			$( "#sales_notification_6" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_6, start_time);
+
+			function hide_sales_6(){
+			$( "#sales_notification_6" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_6, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_8">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	HAIL, Saudi Arabia			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">25 minutes ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_8(){
+			$( "#sales_notification_8" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_8, start_time);
+
+			function hide_sales_8(){
+			$( "#sales_notification_8" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_8, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_12">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Moreno Valley, United States			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">4 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_12(){
+			$( "#sales_notification_12" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_12, start_time);
+
+			function hide_sales_12(){
+			$( "#sales_notification_12" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_12, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_14">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Muang Prathum-Thaini, Thailand			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">6 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_14(){
+			$( "#sales_notification_14" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_14, start_time);
+
+			function hide_sales_14(){
+			$( "#sales_notification_14" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_14, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_18">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Easthampton, United States			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">9 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_18(){
+			$( "#sales_notification_18" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_18, start_time);
+
+			function hide_sales_18(){
+			$( "#sales_notification_18" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_18, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_21">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Gurgaon, India			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">10 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_21(){
+			$( "#sales_notification_21" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_21, start_time);
+
+			function hide_sales_21(){
+			$( "#sales_notification_21" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_21, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_23">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Jakarta Selatan, Indonesia			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">11 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_23(){
+			$( "#sales_notification_23" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_23, start_time);
+
+			function hide_sales_23(){
+			$( "#sales_notification_23" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_23, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_25">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Cologne, Germany			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Elegant - Academy LMS Theme 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">12 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_25(){
+			$( "#sales_notification_25" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_25, start_time);
+
+			function hide_sales_25(){
+			$( "#sales_notification_25" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_25, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_29">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Grimsby, United Kingdom			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">16 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_29(){
+			$( "#sales_notification_29" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_29, start_time);
+
+			function hide_sales_29(){
+			$( "#sales_notification_29" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_29, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_31">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Jakarta, Indonesia			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">19 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_31(){
+			$( "#sales_notification_31" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_31, start_time);
+
+			function hide_sales_31(){
+			$( "#sales_notification_31" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_31, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_33">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Karachi, Pakistan			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">19 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_33(){
+			$( "#sales_notification_33" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_33, start_time);
+
+			function hide_sales_33(){
+			$( "#sales_notification_33" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_33, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_35">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Camdenton, United States			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy LMS Certificate Addon 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">20 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_35(){
+			$( "#sales_notification_35" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_35, start_time);
+
+			function hide_sales_35(){
+			$( "#sales_notification_35" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_35, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_37">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Camdenton, United States			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Elegant - Academy LMS Theme 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">20 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_37(){
+			$( "#sales_notification_37" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_37, start_time);
+
+			function hide_sales_37(){
+			$( "#sales_notification_37" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_37, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_39">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Camdenton, United States			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">21 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_39(){
+			$( "#sales_notification_39" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_39, start_time);
+
+			function hide_sales_39(){
+			$( "#sales_notification_39" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_39, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_40">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Limassol, Cyprus			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Lms Student Android App 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">23 hours ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_40(){
+			$( "#sales_notification_40" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_40, start_time);
+
+			function hide_sales_40(){
+			$( "#sales_notification_40" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_40, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_42">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Victoria, Canada			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy Learning Management System 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">1 day ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_42(){
+			$( "#sales_notification_42" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_42, start_time);
+
+			function hide_sales_42(){
+			$( "#sales_notification_42" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_42, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_44">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Torrebelvicino, Italy			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Elegant - Academy LMS Theme 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">1 day ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_44(){
+			$( "#sales_notification_44" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_44, start_time);
+
+			function hide_sales_44(){
+			$( "#sales_notification_44" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_44, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+            <a href="https://1.envato.market/B32Ry" target="_blank">
+			<div class="sales_notification" id="sales_notification_48">
+  
+			  <table>
+			    <tr>
+			      <td>
+			        <img src="http://academy-lms.com/uploads/item_thumb/envato.png" 
+			        style="height: 60px;padding: 5px 8px 10px 3px;" />
+			      </td>
+			      <td>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; font-style: italic; color: #4E5565;">Purchased from&nbsp;</span>
+			          <span style="font-size: 11px; font-weight: 600; color: #4E5565;">
+			          	Cologne, Germany			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;"> </span>
+			          <span style="font-size: 11px; color: #A8AFBF; font-weight: 500;">
+			          	Academy LMS Certificate Addon 			          </span>
+			        </div>
+			        <div style="line-height: 15px;">
+			          <span style="font-size: 10px; color: #A8AFBF;">1 day ago</span>
+			        </div>
+			      </td>
+			    </tr>
+			  </table>
+			</div>
+			</a>
+
+
+
+			<script>
+
+
+			function show_sales_48(){
+			$( "#sales_notification_48" ).fadeIn( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(show_sales_48, start_time);
+
+			function hide_sales_48(){
+			$( "#sales_notification_48" ).fadeOut( "fast", function() {
+			    // Animation complete
+			  });  
+			}
+			setTimeout(hide_sales_48, end_time);
+
+			console.log('start : ' + start_time)
+			console.log('end : ' + end_time)
+			start_time += 8000;
+			end_time += 8000;
+			</script>
+            
+
+
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $(".goto").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top -100
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        //window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v5.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your customer chat code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="514232388637666"
+  theme_color="#0084ff">
+      </div>
