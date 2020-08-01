@@ -41,72 +41,73 @@ function themeConfig($form) {
     $form->addInput($domain);
     $domain1 = new Typecho_Widget_Helper_Form_Element_Text('domain1' ,NULL, NULL, _t('核心领域下的第1个名字'), _t(' 只需要文字'));
     $form->addInput($domain1);
-    $domain2 = new Typecho_Widget_Helper_Form_Element_Text('domain2' ,NULL, NULL, _t('核心领域下的第2个名字'), _t(' 只需要文字'));
-    $form->addInput($domain2);
-    $domain3 = new Typecho_Widget_Helper_Form_Element_Text('domain3' ,NULL, NULL, _t('核心领域下的第3个名字'), _t(' 只需要文字'));
-    $form->addInput($domain3);
-    $domain4 = new Typecho_Widget_Helper_Form_Element_Text('domain4' ,NULL, NULL, _t('核心领域下的第4个名字'), _t(' 只需要文字'));
-    $form->addInput($domain4);
-    $domain5 = new Typecho_Widget_Helper_Form_Element_Text('domain5' ,NULL, NULL, _t('核心领域下的第5个名字'), _t(' 只需要文字'));
-    $form->addInput($domain5);
-    $domain6 = new Typecho_Widget_Helper_Form_Element_Text('domain6' ,NULL, NULL, _t('核心领域下的第6个名字'), _t(' 只需要文字'));
-    $form->addInput($domain6);
     $domain1about = new Typecho_Widget_Helper_Form_Element_Text('domain1about' ,NULL, NULL, _t('核心领域第1个描述'), _t(' 只需要文字'));
     $form->addInput($domain1about);
+
+    $domain2 = new Typecho_Widget_Helper_Form_Element_Text('domain2' ,NULL, NULL, _t('核心领域下的第2个名字'), _t(' 只需要文字'));
+    $form->addInput($domain2);
     $domain2about = new Typecho_Widget_Helper_Form_Element_Text('domain2about' ,NULL, NULL, _t('核心领域第2个描述'), _t(' 只需要文字'));
     $form->addInput($domain2about);
+
+    $domain3 = new Typecho_Widget_Helper_Form_Element_Text('domain3' ,NULL, NULL, _t('核心领域下的第3个名字'), _t(' 只需要文字'));
+    $form->addInput($domain3);
     $domain3about = new Typecho_Widget_Helper_Form_Element_Text('domain3about' ,NULL, NULL, _t('核心领域第3个描述'), _t(' 只需要文字'));
     $form->addInput($domain3about);
+    $domain4 = new Typecho_Widget_Helper_Form_Element_Text('domain4' ,NULL, NULL, _t('核心领域下的第4个名字'), _t(' 只需要文字'));
+    $form->addInput($domain4);
     $domain4about = new Typecho_Widget_Helper_Form_Element_Text('domain4about' ,NULL, NULL, _t('核心领域第4个描述'), _t(' 只需要文字'));
     $form->addInput($domain4about);
+    $domain5 = new Typecho_Widget_Helper_Form_Element_Text('domain5' ,NULL, NULL, _t('核心领域下的第5个名字'), _t(' 只需要文字'));
+    $form->addInput($domain5);
     $domain5about = new Typecho_Widget_Helper_Form_Element_Text('domain5about' ,NULL, NULL, _t('核心领域第5个描述'), _t(' 只需要文字'));
     $form->addInput($domain5about);
+    $domain6 = new Typecho_Widget_Helper_Form_Element_Text('domain6' ,NULL, NULL, _t('核心领域下的第6个名字'), _t(' 只需要文字'));
+    $form->addInput($domain6);
     $domain6about = new Typecho_Widget_Helper_Form_Element_Text('domain6about' ,NULL, NULL, _t('核心领域第6个描述'), _t(' 只需要文字'));
     $form->addInput($domain6about);
 
 
+
+
     $view1 = new Typecho_Widget_Helper_Form_Element_Text('view1' ,NULL, NULL, _t('作品1名字'), _t(' '));
     $form->addInput($view1);
-    $view2 = new Typecho_Widget_Helper_Form_Element_Text('view2' ,NULL, NULL, _t('作品2名字'), _t(' '));
-    $form->addInput($view2);
-    $view3 = new Typecho_Widget_Helper_Form_Element_Text('view3' ,NULL, NULL, _t('作品3名字'), _t(' '));
-    $form->addInput($view3);
-    $view4 = new Typecho_Widget_Helper_Form_Element_Text('view4' ,NULL, NULL, _t('作品4名字'), _t(' '));
-    $form->addInput($view4);
-    $view5 = new Typecho_Widget_Helper_Form_Element_Text('view5' ,NULL, NULL, _t('作品5名字'), _t(' '));
-    $form->addInput($view5);
-
     $view1href = new Typecho_Widget_Helper_Form_Element_Text('view1href' ,NULL, NULL, _t('作品1图片'), _t(' 填入图片链接，建议使用https协议'));
     $form->addInput($view1href);
+    $view2 = new Typecho_Widget_Helper_Form_Element_Text('view2' ,NULL, NULL, _t('作品2名字'), _t(' '));
+    $form->addInput($view2);
     $view2href = new Typecho_Widget_Helper_Form_Element_Text('view2href' ,NULL, NULL, _t('作品2图片'), _t(' 填入图片链接，建议使用https协议'));
     $form->addInput($view2href);
+    $view3 = new Typecho_Widget_Helper_Form_Element_Text('view3' ,NULL, NULL, _t('作品3名字'), _t(' '));
+    $form->addInput($view3);
     $view3href = new Typecho_Widget_Helper_Form_Element_Text('view3href' ,NULL, NULL, _t('作品3图片'), _t(' 填入图片链接，建议使用https协议'));
     $form->addInput($view3href);
+    $view4 = new Typecho_Widget_Helper_Form_Element_Text('view4' ,NULL, NULL, _t('作品4名字'), _t(' '));
+    $form->addInput($view4);
     $view4href = new Typecho_Widget_Helper_Form_Element_Text('view4href' ,NULL, NULL, _t('作品4图片'), _t(' 填入图片链接，建议使用https协议'));
     $form->addInput($view4href);
+    $view5 = new Typecho_Widget_Helper_Form_Element_Text('view5' ,NULL, NULL, _t('作品5名字'), _t(' '));
+    $form->addInput($view5);
     $view5href = new Typecho_Widget_Helper_Form_Element_Text('view5href' ,NULL, NULL, _t('作品5图片'), _t(' 填入图片链接，建议使用https协议'));
     $form->addInput($view5href);
 
 
+
     $more1 = new Typecho_Widget_Helper_Form_Element_Text('more1' ,NULL, NULL, _t('其他作品1名字'), _t(' '));
     $form->addInput($more1);
-    $more2 = new Typecho_Widget_Helper_Form_Element_Text('more2' ,NULL, NULL, _t('其他作品2名字'), _t(' '));
-    $form->addInput($more2);
-    $more3 = new Typecho_Widget_Helper_Form_Element_Text('more3' ,NULL, NULL, _t('其他作品3名字'), _t(' '));
-    $form->addInput($more3);
-    $more4 = new Typecho_Widget_Helper_Form_Element_Text('more4' ,NULL, NULL, _t('其他作品4名字'), _t(' '));
-    $form->addInput($more4);
-
-
     $more1href = new Typecho_Widget_Helper_Form_Element_Text('more1href' ,NULL, NULL, _t('其他作品1链接'), _t(' 填入链接，建议使用https协议'));
     $form->addInput($more1href);
+    $more2 = new Typecho_Widget_Helper_Form_Element_Text('more2' ,NULL, NULL, _t('其他作品2名字'), _t(' '));
+    $form->addInput($more2);
     $more2href = new Typecho_Widget_Helper_Form_Element_Text('more2href' ,NULL, NULL, _t('其他作品2链接'), _t(' 填入链接，建议使用https协议'));
     $form->addInput($more2href);
+    $more3 = new Typecho_Widget_Helper_Form_Element_Text('more3' ,NULL, NULL, _t('其他作品3名字'), _t(' '));
+    $form->addInput($more3);
     $more3href = new Typecho_Widget_Helper_Form_Element_Text('more3href' ,NULL, NULL, _t('其他作品3链接'), _t(' 填入链接，建议使用https协议'));
     $form->addInput($more3href);
+    $more4 = new Typecho_Widget_Helper_Form_Element_Text('more4' ,NULL, NULL, _t('其他作品4名字'), _t(' '));
+    $form->addInput($more4);
     $more4href = new Typecho_Widget_Helper_Form_Element_Text('more4href' ,NULL, NULL, _t('其他作品4链接'), _t(' 填入链接，建议使用https协议'));
     $form->addInput($more4href);
-
 
 
 
