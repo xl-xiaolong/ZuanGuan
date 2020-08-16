@@ -30,6 +30,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
 		<!--icon font css-->
 		<link rel="stylesheet" href="/usr/themes/ZuanGuan/static/css/themify-icons.css">
 		<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
+		
 		<link rel="stylesheet" href="/usr/themes/ZuanGuan/static/css/all.css">
 		<link rel="stylesheet" href="/usr/themes/ZuanGuan/static/css/style.css">
 		<link rel="stylesheet" href="/usr/themes/ZuanGuan/static/css/flaticon.css">
