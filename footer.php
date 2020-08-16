@@ -5,11 +5,13 @@
 							<div class="col-lg-4 col-sm-6">
 								<div class="f_widget company_widget">
 									<a href="index1.html" class="f-logo"><img src="<?php $this->options->logoUrl() ?>" srcset="<?php $this->options->logoUrl() ?>" alt="logo" style="height: 30px;"></a>
-                                    <?php if ($this->options->autofooter): ?>
+                                    <?php if ($this->options->afooter): ?>
 										<p class="mt_40">Copyright © 2020 <a style="color: #677294;" href="/" target="_blank"><?php $this->options->title() ?></a>
 										<!--请不要删除作者与二次开发者，开发不容易，删除也做个友链吧，感谢大佬哇，感谢谅解 /哭泣-->
+										<br><?php $this->options->footer() ?>
 										<br>made by	 Creativeitem
                                     	<br>Secondary development by Wibus
+										
 										</p>
                                     <?php else: ?>
                                     <p class="mt_40">Copyright © 2020 <a style="color: #677294;" href="index1.html" target="_blank">钻芒控i</a>
@@ -33,7 +35,7 @@
 																			</ul>
 								</div>
 							</div>-->
-							
+							<?php if ($this->options->footersites): ?>
 							<div class="col-lg-3 col-sm-6">
 								<div class="f_widget about-widget">
 									<h3 class="f-title f_600 w_color f_size_18 mb_40">旗下网站</h3>
@@ -42,6 +44,7 @@
 																			</ul>
 								</div>
 							</div> 
+							<?php endif; ?>
 
 							<div class="col-lg-2 col-sm-6">
 								<div class="f_widget social-widget">

@@ -8,9 +8,12 @@
  * @link https://blog.iucky.cn
  */
 
-if (!defined('__TYPECHO_ROOT_DIR__')) exit;
-$this->need('header.php');
-?>
+if (!defined('__TYPECHO_ROOT_DIR__')) exit;?>
+<div class="body_wrapper">
+<?php $this->need('headnav.php'); ?>
+<?php $this->need('header.php'); ?>
+
+
 
 
 			<!-- PROMO SECTION -->
@@ -37,7 +40,7 @@ $this->need('header.php');
 							<?php endif; ?>
 							<?php if ($this->options->description): ?>
 								<p class="wow fadeInUp" data-wow-delay="0.5s">
-								<?php $this->options->descrption() ?>
+								<?php $this->options->description() ?>
 								</p>
 							<?php else: ?>
 								<p class="wow fadeInUp" data-wow-delay="0.5s">
@@ -92,49 +95,49 @@ $this->need('header.php');
 				<div class="container">
 					<div class="seo_sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
 						<h2>核心领域</h2>
-						<p><?php $this->options->domain; ?></p>
+						<p><?php $this->options->domain(); ?></p>
 					</div>
 					<div class="row p_service_info">
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pr_70">
 								<div class="icon icon_one"><i class="ti-wand"></i></div>
-								<h5 class="f_600 f_p t_color3"><?php $this->options->domain1; ?></h5>
-								<p class="f_400"><?php $this->options->domain1about; ?></p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain1(); ?></h5>
+								<p class="f_400"><?php $this->options->domain1about(); ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_50 pr_20">
 								<div class="icon icon_two"><i class="ti-help-alt"></i></div>
 								<h5 class="f_600 f_p t_color3"><?php $this->options->domain2; ?></h5>
-								<p class="f_400"><?php $this->options->domain2about; ?></p>
+								<p class="f_400"><?php $this->options->domain2about(); ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_70">
 								<div class="icon icon_three"><i class="ti-infinite"></i></div>
-								<h5 class="f_600 f_p t_color3"><?php $this->options->domain3; ?></h5>
-								<p class="f_400"><?php $this->options->domain3about; ?></p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain3(); ?></h5>
+								<p class="f_400"><?php $this->options->domain3about(); ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pr_70">
 								<div class="icon icon_four"><i class="ti-user"></i></div>
-								<h5 class="f_600 f_p t_color3"><?php $this->options->domain4; ?></h5>
-								<p class="f_400"><?php $this->options->domain4about; ?></p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain4(); ?></h5>
+								<p class="f_400"><?php $this->options->domain4about(); ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_50 pr_20">
 								<div class="icon icon_five"><i class="ti-email"></i></div>
-								<h5 class="f_600 f_p t_color3"><?php $this->options->domain5; ?></h5>
-								<p class="f_400"><?php $this->options->domain5about; ?></p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain5(); ?></h5>
+								<p class="f_400"><?php $this->options->domain5about(); ?></p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-sm-6">
 							<div class="p_service_item pl_70">
 								<div class="icon icon_six"><i class="ti-stats-up"></i></div>
-								<h5 class="f_600 f_p t_color3"><?php $this->options->domain6; ?></h5>
-								<p class="f_400"><?php $this->options->domain6about; ?></p>
+								<h5 class="f_600 f_p t_color3"><?php $this->options->domain6(); ?></h5>
+								<p class="f_400"><?php $this->options->domain6about(); ?></p>
 							</div>
 						</div>
 					</div>
@@ -249,17 +252,17 @@ $this->need('header.php');
 										<a href="<?php $this->options->more1href(); ?>" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
 											<i class="fa fa-pen-fancy"></i> <?php $this->options->more1(); ?></a>
 
-										<a href="<?php $this->options->more2href(); ?>" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
-											<i class="fa fa-user-graduate"></i> <?php $this->options->more1(); ?></a>
+										<a href="<?php $this->options->more3href(); ?>" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
+											<i class="fa fa-user-graduate"></i> <?php $this->options->more3(); ?></a>
 
 									</div>
 									<div class="col-md-6 col-sm-12 col-xs-12">
 
-										<a href="<?php $this->options->more3href(); ?>" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
-											<i class="fa fa-user-shield"></i><?php $this->options->more1(); ?></a>
+										<a href="<?php $this->options->more2href(); ?>" target="_blank" class="app_btn app_btn_two wow fadeInLeft btn_hover mt_40" data-wow-delay="0.6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
+											<i class="fa fa-user-shield"></i><?php $this->options->more2(); ?></a>
 
 										<a href="<?php $this->options->more4href(); ?>" target="_blank" class="app_btn app_btn_two Cus_getapp wow fadeInLeft btn_hover mt_40" data-wow-delay="0.5s" style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
-											<i class="fa fa-globe"></i><?php $this->options->more1(); ?></a> 
+											<i class="fa fa-globe"></i><?php $this->options->more4(); ?></a> 
 									</div>
 								</div>
 
